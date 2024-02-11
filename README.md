@@ -1,4 +1,4 @@
-test-repo
+arepo
 =========
 
 This is a test repository
